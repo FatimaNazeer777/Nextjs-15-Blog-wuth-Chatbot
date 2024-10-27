@@ -93,7 +93,7 @@ export default function Hero() {
                         </p>
 
                         <pre className="block text-lg md:text-2xl bg-gray-100 p-2 rounded overflow-x-auto">
-                            <code className="text-lg md:text-2xl">
+                            <code className="text-lg md:text-sm">
 {`const nextConfig = {
   experimental: {
     reactCompiler: true,
