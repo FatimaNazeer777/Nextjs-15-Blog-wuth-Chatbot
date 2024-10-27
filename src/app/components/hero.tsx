@@ -56,7 +56,7 @@ export default function Hero() {
                         <h2 className="text-2xl md:text-3xl font-semibold mb-2">NPM</h2>
                         <code className="block text-lg md:text-2xl bg-gray-100 p-2 rounded mb-6">npm i next@rc react@rc react-dom@rc eslint-config-next@rc</code>
 
-                        <h2 className="text-2xl md:text-3xl font-semibold mt-4 mb-2">Y arn</h2>
+                        <h2 className="text-2xl md:text-3xl font-semibold mt-4 mb-2">Yarn</h2>
                         <code className="block text-lg md:text-2xl bg-gray-100 p-2 rounded mb-6">yarn add next@rc react@rc react-dom@rc eslint-config-next@rc</code>
 
                         <p className="text-lg md:text-2xl mt-6">
